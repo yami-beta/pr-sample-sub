@@ -1,0 +1,3 @@
+[submodule "pr-sample-main"]
+	path = pr-sample-main
+	url = https://github.com/yami-beta/pr-sample-main.git
